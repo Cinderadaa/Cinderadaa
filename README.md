@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rada Karanyakorn
 =========================================================================================================================================
 
-Business × Technology Developer
+Business & Technology | Turning Ideas into Working Solutions
 -------------------------------
 
 I'm a Digital Service Innovation student at KMUTT interested in the intersection of business, product, and technology. I enjoy turning ambiguous problems into structured, practical solutions from understanding requirements and designing workflows to building, testing, and delivering technology solutions.
